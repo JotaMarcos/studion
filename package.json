@@ -10,19 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brucecantarim/studion.git"
+    "url": "git+https://github.com/JotaMarcos/studion"
   },
   "keywords": [
     "HTML",
     "CSS",
     "Javascript"
   ],
-  "author": "Bruce Cantarim",
+  "author": "João Marcos",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/brucecantarim/studion/issues"
+    "url": "https://github.com/JotaMarcos/studionissues"
   },
-  "homepage": "https://github.com/brucecantarim/studion#readme",
+  "homepage": "https://github.com/JotaMarcos/studionstudion#readme",
   "devDependencies": {
     "live-server": "^1.2.1"
   }
